@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LMS",
+    "\\LMS\\Areas",
+    "\\LMS\\Areas\\Identity",
+    "\\LMS\\bin",
+    "\\LMS\\Controllers",
+    "\\LMS\\Enums",
+    "\\LMS\\Migrations",
+    "\\LMS\\Models",
+    "\\LMS\\Properties",
+    "\\LMS\\Views"
+  ],
+  "SelectedNode": "\\LMS\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Utah\\CS5530_DatabaseSystems\\ChessBrowser_Submission\\ChessBrowserAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93815331-6934-4879-A76A-17BF6E450D47}|ChessBrowser\\ChessBrowser.csproj|c:\\utah\\cs5530_databasesystems\\chessbrowser_submission\\chessbrowserassignment\\chessbrowser\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93815331-6934-4879-A76A-17BF6E450D47}|ChessBrowser\\ChessBrowser.csproj|solutionrelative:chessbrowser\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93815331-6934-4879-A76A-17BF6E450D47}|ChessBrowser\\ChessBrowser.csproj|c:\\utah\\cs5530_databasesystems\\chessbrowser_submission\\chessbrowserassignment\\chessbrowser\\chessgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93815331-6934-4879-A76A-17BF6E450D47}|ChessBrowser\\ChessBrowser.csproj|solutionrelative:chessbrowser\\chessgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93815331-6934-4879-A76A-17BF6E450D47}|ChessBrowser\\ChessBrowser.csproj|c:\\utah\\cs5530_databasesystems\\chessbrowser_submission\\chessbrowserassignment\\chessbrowser\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93815331-6934-4879-A76A-17BF6E450D47}|ChessBrowser\\ChessBrowser.csproj|solutionrelative:chessbrowser\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\ChessBrowser_Submission\\ChessBrowserAssignment\\ChessBrowser\\Queries.cs",
+              "RelativeDocumentMoniker": "ChessBrowser\\Queries.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\ChessBrowser_Submission\\ChessBrowserAssignment\\ChessBrowser\\Queries.cs",
+              "RelativeToolTip": "ChessBrowser\\Queries.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:40:27.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\ChessBrowser_Submission\\ChessBrowserAssignment\\ChessBrowser\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ChessBrowser\\MauiProgram.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\ChessBrowser_Submission\\ChessBrowserAssignment\\ChessBrowser\\MauiProgram.cs",
+              "RelativeToolTip": "ChessBrowser\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:33:23.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChessGame.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\ChessBrowser_Submission\\ChessBrowserAssignment\\ChessBrowser\\ChessGame.cs",
+              "RelativeDocumentMoniker": "ChessBrowser\\ChessGame.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\ChessBrowser_Submission\\ChessBrowserAssignment\\ChessBrowser\\ChessGame.cs",
+              "RelativeToolTip": "ChessBrowser\\ChessGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:33:21.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

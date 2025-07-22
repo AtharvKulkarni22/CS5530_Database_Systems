@@ -1,0 +1,1 @@
+C:\Utah\CS5530_DatabaseSystems\ChessBrowser_Submission\ChessBrowserAssignment\ChessBrowser\ChessBrowser.csproj;x64

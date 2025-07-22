@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\librarywebserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\librarywebserver\\models\\team7librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\models\\team7librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E543EAED-46E5-4429-94D5-939C6FF056D5}|TestProject1\\TestProject1.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E543EAED-46E5-4429-94D5-939C6FF056D5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E543EAED-46E5-4429-94D5-939C6FF056D5}|TestProject1\\TestProject1.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\testproject1\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E543EAED-46E5-4429-94D5-939C6FF056D5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E543EAED-46E5-4429-94D5-939C6FF056D5}|TestProject1\\TestProject1.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E543EAED-46E5-4429-94D5-939C6FF056D5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\librarywebserver\\models\\patrons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\models\\patrons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\librarywebserver\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\librarywebserver\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\librarywebserver\\models\\titles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\models\\titles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\librarywebserver\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\utah\\cs5530_databasesystems\\librarywebserver\\librarywebserver\\librarywebserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\librarywebserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\TestProject1\\Usings.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Usings.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\TestProject1\\Usings.cs",
+              "RelativeToolTip": "TestProject1\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T22:41:48.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T22:41:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestProject1",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T22:41:33.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryWebServer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:44:08.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Titles.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\Titles.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Models\\Titles.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\Titles.cs",
+              "RelativeToolTip": "LibraryWebServer\\Models\\Titles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:40:44.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patrons.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\Patrons.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Models\\Patrons.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\Patrons.cs",
+              "RelativeToolTip": "LibraryWebServer\\Models\\Patrons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:40:30.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\Inventory.cs",
+              "RelativeToolTip": "LibraryWebServer\\Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:40:28.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team7LibraryContext.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\Team7LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Models\\Team7LibraryContext.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\Team7LibraryContext.cs",
+              "RelativeToolTip": "LibraryWebServer\\Models\\Team7LibraryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:40:08.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryWebServer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T18:41:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LibraryWebServer\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:38:41.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryWebServer",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\LibraryWebServer.csproj",
+              "RelativeDocumentMoniker": "LibraryWebServer\\LibraryWebServer.csproj",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LibraryWebServer\\LibraryWebServer\\LibraryWebServer.csproj",
+              "RelativeToolTip": "LibraryWebServer\\LibraryWebServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T18:38:35.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

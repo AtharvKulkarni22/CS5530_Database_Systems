@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Migrations\\LMSIdentityDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Migrations\\LMSIdentityDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Enums\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Enums\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\LMS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\LMS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\CommonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Controllers\\CommonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\AdministratorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Controllers\\AdministratorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\ProfessorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMS\\Controllers\\ProfessorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LMSIdentityDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Migrations\\LMSIdentityDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LMS\\Migrations\\LMSIdentityDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Migrations\\LMSIdentityDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LMS\\Migrations\\LMSIdentityDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:51:31.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "LMS\\Program.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Program.cs",
+              "RelativeToolTip": "LMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:59:21.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LMS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T19:32:05.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LMS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LMS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T19:32:02.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LMS\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LMS\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T19:31:56.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LMS\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:31:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LMS\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "LMS\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:31:51.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "LMS\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Enums\\Roles.cs",
+              "RelativeToolTip": "LMS\\Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:31:44.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LMS.csproj",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\LMS.csproj",
+              "RelativeDocumentMoniker": "LMS\\LMS.csproj",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\LMS.csproj",
+              "RelativeToolTip": "LMS\\LMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T19:31:30.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\appsettings.json",
+              "RelativeDocumentMoniker": "LMS\\appsettings.json",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\appsettings.json",
+              "RelativeToolTip": "LMS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T19:31:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LMS\\appsettings.Development.json",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\appsettings.Development.json",
+              "RelativeToolTip": "LMS\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T19:31:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdministratorController.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\AdministratorController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\AdministratorController.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\AdministratorController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\AdministratorController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:40:30.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:39:36.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "LMS\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Utah\\CS5530_DatabaseSystems\\LMS_Final_Submission\\LMSHandout (1)\\LMSHandout\\LMS\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "LMS\\Controllers\\CommonController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T00:38:21.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

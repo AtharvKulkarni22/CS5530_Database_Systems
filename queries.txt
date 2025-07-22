@@ -1,0 +1,56 @@
+#1.1
+select Name as PatronName from (select max(nCheckout),CardNum, Name from (select count(*) as nCheckout, CardNum from CheckedOut group by CardNum) as A Natural Join Patrons) as B;
+
+#1.2
+select Author from (select count(*) as nBooks, Author from Titles group by Author Having nBooks > 1) as A;
+
+#1.3
+select Author from (select count(Serial) as nCount, Author from Inventory Natural Join Titles Group By Author Having nCount > 1) as A;
+
+#1.4
+select Name, Numbooks, 
+CASE 
+when Numbooks > 2 then 'Platinum' 
+when Numbooks = 2 then 'Gold' 
+when Numbooks = 1 then 'Silver' 
+else 'Bronze' 
+End as Loyalty 
+from (select Name, count(*) as Numbooks from CheckedOut Natural join Patrons group by CardNum) as A;
+
+#2.1
+select Name from Players where Elo >= ...;
+
+#2.2
+select distinct Players.Name as Name from Players join Games on Players.pID = Games.WhitePlayer;
+
+#2.3
+select distinct Players.Name as Name from Players join Games on Players.pID = Games.WhitePlayer and Games.Result = 'W';
+
+#2.4
+select distinct Players.Name as Name from Players Join (select * from Games natural join Events where YEAR(Date) = ...) as A where (A.BlackPlayer = Players.pID or A.WhitePlayer = Players.pID);
+
+#2.5
+select Events.Name as Name, Date from Events natural join Games join Players on Games.WhitePlayer = Players.pID and Games.Result = "B" and Players.Name = "..." 
+UNION DISTINCT
+select Events.Name as Name, Date from Events natural join Games join Players on Games.BlackPlayer = Players.pID and Games.Result = "W" and Players.Name = "...";
+
+#2.6
+select Players.Name as Name from Players join Games on Games.WhitePlayer = Players.pID and Games.BlackPlayer = (select pID from Players where Name = "...")
+UNION DISTINCT
+select Players.Name as Name from Players join Games on Games.BlackPlayer = Players.pID and Games.WhitePlayer = (select pID from Players where Name = "...");
+
+#2.7
+select Players.Name as Name from Players
+left join Games as WG on Players.pID = WG.WhitePlayer and WG.Result = 'B'
+left join Games as BG on Players.pID = BG.BlackPlayer and BG.Result = 'W'
+where WG.WhitePlayer is null and BG.BlackPlayer is null;
+
+#3.1
+delete from CheckedOut where CardNum = (select CardNum from Patrons where Name = '...');
+
+#3.2
+insert into CheckedOut (CardNum, Serial)
+select
+    (select CardNum from Patrons where Name = '...2') as CardNum,
+    (select Serial from Inventory natural join Titles where Title = '...1' 
+     and serial not in (select serial from CheckedOut) limit 1) as serial;
